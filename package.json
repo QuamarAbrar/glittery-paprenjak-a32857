@@ -1,0 +1,7 @@
+{
+  "name": "lumora-auth",
+  "private": true,
+  "dependencies": {
+    "@netlify/identity": "2.0.0"
+  }
+}
